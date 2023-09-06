@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\CSVfile\CSVfile\bin\Debug\values.csv
+C:\Users\User\source\repos\CSVfile\CSVfile\bin\Debug\CSVfile.exe.config
+C:\Users\User\source\repos\CSVfile\CSVfile\bin\Debug\CSVfile.exe
+C:\Users\User\source\repos\CSVfile\CSVfile\bin\Debug\CSVfile.pdb
+C:\Users\User\source\repos\CSVfile\CSVfile\obj\Debug\CSVfile.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSVfile\CSVfile\obj\Debug\CSVfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CSVfile\CSVfile\obj\Debug\CSVfile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSVfile\CSVfile\obj\Debug\CSVfile.exe
+C:\Users\User\source\repos\CSVfile\CSVfile\obj\Debug\CSVfile.pdb
